@@ -50,7 +50,7 @@ Chatbot
 	Author: Sumith P
 	Email: sumithjadhav82@gamil.com
 	GitHub: sumith28
-We appreciate your interest in CareBuddy and look forward to hearing from you!
+We appreciate your interest in look forward to hearing from you!
 
 	
  
